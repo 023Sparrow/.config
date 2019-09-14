@@ -1,0 +1,2 @@
+# .config
+manjaro ~/.config
